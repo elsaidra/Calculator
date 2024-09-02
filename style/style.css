@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(76, 151, 170);
+    background-color: rgb(236, 166, 213);
 }
 
 .container {
@@ -7,11 +7,11 @@ body {
     flex-flow: column;
     height: 426px;
     width: 534px;
-    background-color: rgb(66, 63, 63);
+    background-color: rgb(108, 190, 228);
     align-items: center;
     justify-content: center;
     margin: 100px auto;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 15px rgba(245, 241, 10, 0.5);
     border-radius: 20px;
     padding: 20px;
 }
@@ -41,7 +41,7 @@ button {
     margin: 5px;
     border-radius: 10%;
     border: none;
-    background-color: #888;
+    background-color: #300629;
     color: white;
     cursor: pointer;
     transition: background-color 0.3s;
